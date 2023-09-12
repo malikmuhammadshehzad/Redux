@@ -1,0 +1,6 @@
+export default{
+    INCREMENT:'INCREMENT',
+    DECREMENT:"DECREMENT",
+    lOGIN:'lOGIN',
+    SIGNUP:'SIGNUP'
+}
